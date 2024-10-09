@@ -391,6 +391,17 @@ FodyWeavers.xsd
 *.cab
 *.msi
 *.msix
+
+#from prabhu
+.DS_Store
+Icon^
+.idea
+.iml
+.class
+.jar
+target
+node_modules
+.lock
 *.msm
 *.msp
 
